@@ -41,11 +41,11 @@ Log in to Heroku:
 
 Create a new Heroku app:
 
-'heroku create'
+`heroku create`
 
 Push the code to Heroku:
 
-'git push heroku master'
+`git push heroku master`
 
 ## Conclusion
 
