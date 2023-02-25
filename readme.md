@@ -25,6 +25,12 @@ Activate the virtual environment:
 
 `source djangoenv/bin/activate`
 
+Create requirements.txt:
+
+`touch requirements.txt`
+
+Paste requirements.txt from this repository into your own requirements.txt file.
+
 Install the dependencies:
 
 `pip install requirements.txt`
