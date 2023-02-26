@@ -6,10 +6,10 @@ This repository is meant to serve as a starting point for deploying a Django RES
 
 To use this code, you'll need the following:
 
-Python 3.x
-A [virtual environment](https://www.javatpoint.com/django-virtual-environment-setup#:~:text=The%20virtual%20environment%20is%20an,create%20an%20isolated%20Python%20environment.) for Python 3.x
-Git
-A Heroku account
+* Python 3.x
+* A [virtual environment](https://www.javatpoint.com/django-virtual-environment-setup#:~:text=The%20virtual%20environment%20is%20an,create%20an%20isolated%20Python%20environment.) for Python 3.x
+* Git
+* A Heroku account
 
 ## Installation
 
