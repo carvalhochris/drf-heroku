@@ -14,27 +14,27 @@ A Heroku account
 ## Installation
 
 Create a new directory for the project:
-
-`mkdir drf-heroku`
-
+```
+mkdir drf-heroku`
+```
 Create a new virtual environment:
-
-`python3 -m venv djangoenv`
-
+```
+python3 -m venv djangoenv
+```
 Activate the virtual environment:
-
-`source djangoenv/bin/activate`
-
+```
+source djangoenv/bin/activate
+```
 Create requirements.txt:
-
-`touch requirements.txt`
-
+```
+touch requirements.txt
+```
 Paste requirements.txt from this repository into your own requirements.txt file.
 
 Install the dependencies:
-
-`pip install requirements.txt`
-
+```
+pip install requirements.txt
+```
 Copy and paste the code from the Procfile to your own Procfile.
 
 ## Deployment
@@ -42,17 +42,17 @@ Copy and paste the code from the Procfile to your own Procfile.
 To deploy the project to Heroku, follow these steps:
 
 Log in to Heroku:
-
-`heroku login`
-
+```
+heroku login`
+```
 Create a new Heroku app:
-
-`heroku create`
-
+```
+heroku create
+```
 Push the code to Heroku:
+```
+git push heroku master
+```
+## Issues
 
-`git push heroku master`
-
-## Conclusion
-
-That's it! You now have a basic DRF project that is ready for deployment to Heroku. Feel free to customize it to suit your needs. Happy coding!
+Any issues with this code should be reported in the Issues section of this repository.
