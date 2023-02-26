@@ -15,7 +15,7 @@ A Heroku account
 
 Create a new directory for the project:
 ```
-mkdir drf-heroku`
+mkdir drf-heroku
 ```
 Create a new virtual environment:
 ```
